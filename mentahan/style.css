@@ -2,13 +2,11 @@
     margin: 0;
 }
 header{
-    background-color: #4da6ff;
+    background-color: rgba(59, 149, 240, 0.7);
     height: 70px;
     width: 100%;
-    box-shadow: 0 0 15px #504E4E;
 }
 .nav{
-    /* height: 5rem; */
     width: 100%;
     display: block;
     justify-content: flex-start;
