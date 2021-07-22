@@ -88,6 +88,42 @@ a{
     text-decoration: none;
     color: #fff;
 }
+
+    .section-title {
+        border-bottom: 2px solid #1f2021;
+        font-size: 25px;
+        padding-bottom: 15px;
+        margin-bottom: 50px;
+    }
+
+    .card h5 {
+        font-size: 19px;
+    }
+
+    .card {
+        float: left;
+        margin-right: 50px;
+        text-align: center;
+        max-width:300px;
+    }
+      
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+      
+    button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
 @media (max-width: 800px){
     .nav{
         display: flex;
