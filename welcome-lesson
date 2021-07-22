@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="welcome-session">
+        <h1>007-COURSE</h1>
+        <h1>BERSAMA ITU ASYIK!</h1>
+        <p>007-COURSE adalah platform kelas online dalam belajar coding</p>
+        <p>Kami memiliki kontributor berpengalaman yang siap membimbing Anda</p>
+    </div>
+
+    <div id="lesson-section">
+        <h3>Kelas Bahasa Pemrograman</h3>
+        <a href="#">HTML & CSS</a>
+        <a href="#">PHP</a>
+        <a href="#">JAVASCRIPT</a>
+    </div>
+
+</body>
+</html>
