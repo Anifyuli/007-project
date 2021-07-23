@@ -243,6 +243,7 @@ border-radius: 100%;
 .benefit-section{
     padding: 20px 50px;
     background-color: #EAE4E4;
+    word-spacing: 5px;
 }
 .benefit-section h3{
     font-size: 20px;
