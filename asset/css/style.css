@@ -172,7 +172,7 @@ header{
     font-family: "Raleway", sans-serif;
     height: 750px;
 }
-.lessons .html,.css,.php,.java{
+.lessons .html,.css,.php,.js{
     margin-top: 20px;
     float: left;
     margin-right: 20px;
@@ -190,7 +190,7 @@ header{
     border-bottom: 2px solid #7B7A7A;
     display: inline;
 }
-.lesson .html,.css,.php,.java{
+.lesson .html,.css,.php,.js{
     width: 48%;
 
 }
@@ -202,7 +202,7 @@ header{
 border-radius: 100%;
 }
 
-.lesson .html,.css,.php,.java{
+.lesson .html,.css,.php,.js{
     border: 1px solid rgba(59, 149, 240, 0.6);
     border-radius: 15px;
     padding-top: 8px;
@@ -220,7 +220,7 @@ border-radius: 100%;
     color: #fff;
     
 }
-.lesson-icon .javas{
+.lesson-icon .js-info{
     left: 41%;
 }
 .texts{
@@ -232,8 +232,8 @@ border-radius: 100%;
 .lesson-icon a{
     color: inherit;
 }
-.lessons .html:hover,.css:hover,.php:hover,.java:hover{
-    background-color: #111;
+.lessons .html:hover,.css:hover,.php:hover,.js:hover{
+    background-color: rgba(46, 116, 148, 0.753);
     transition: all 0.7s;
     color: #fff;
 }
@@ -360,7 +360,7 @@ border-radius: 100%;
     color: #333;
 }
 
-.social-links{
+.contributor-info .social-links{
     border-top: 1px solid #111;
     padding-top: 7px;
 }
